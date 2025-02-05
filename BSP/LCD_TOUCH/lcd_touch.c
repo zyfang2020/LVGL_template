@@ -1,3 +1,13 @@
+/**
+ * @file lcd_touch.c
+ * @author 正点原子
+ * @brief 适用于正点原子2.8寸电阻触摸屏的驱动
+ * @version 0.1
+ * @date 2025-02-05
+ * 
+ * @copyright Copyright (c) 2025
+ * 
+ */
 #include "lcd_touch.h" 
 #include "lcd.h"
 #include "math.h"

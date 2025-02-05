@@ -1,0 +1,3 @@
+## 介绍
+适用于STM32H7的LVGL程序，支持Keil和EIDE，链接文件使用EIDE下的mine.sct
+需要在lvgl_app同级的lvgl文件夹下添加lvgl的src文件夹才可使用
