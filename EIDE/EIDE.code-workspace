@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "LVGL_Test",
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "lv_port_disp.h": "c",
+            "main.h": "c"
+        }
+    },
+    "extensions": {}
+}
